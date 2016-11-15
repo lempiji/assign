@@ -1,0 +1,9 @@
+{
+	"name": "assign",
+	"authors": [
+		"lempiji"
+	],
+	"description": "A flexible constructer for immutable struct.",
+	"copyright": "Copyright © 2016, lempiji",
+	"license": "MIT"
+}
